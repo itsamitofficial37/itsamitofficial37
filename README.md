@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**itsamitofficial37/itsamitofficial37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨Hello Developers 🙌
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my Profile
+🔗 Connect With Me
+https://www.linkedin.com/in/amitkumar37/
+https://itsamitofficial37.github.io/OIBSIP---Portfolio-Website/
+https://www.instagram.com/itsamitsingh___/
+
+🚀 About Me
+-I am Amit Kumar Graduated in Bachelor Of Computer Applications  From Maharshi Dayanand University.
+-👨‍💻From my childhood I was very Passionate about Technology and curious about how the things works .
+
+-✔️I am Currently learning new things everyday
+
+-🌱 I’m currently learning Web Development.
+
+-💬 Ask me about Technology?
+
+🛠 Skills
+JavaScript CSS HTML5 C JAVA Python MYSQL GIT MICROSOFT AZURE VISUAL STUDIO CODE ECLIPSE CodeChef LeetCode Express.js Flutter NPM React Netlify HackerRank GitHub
